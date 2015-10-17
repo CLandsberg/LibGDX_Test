@@ -1,2 +1,2 @@
 # LibGDX_Test
-to poor to afford an private repo
+to poor to afford a private repo
